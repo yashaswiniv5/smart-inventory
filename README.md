@@ -1,18 +1,49 @@
-# React + Vite
+:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛒 DESI MART – AI‑Powered Retail Management Dashboard
+DESI MART is a full‑stack store management system built to empower small and medium retailers with real‑time insights, automation, and AI‑driven workflows. It combines traditional billing and inventory features with advanced modules for financial risk detection, customer communication, and logistics optimization.
 
-Currently, two official plugins are available:
+🌟 Highlights
+📊 Real‑Time Dashboard – Monitor sales, profit, and billing activity at a glance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📦 Inventory Alerts – Automatic notifications when stock falls below thresholds.
 
-## React Compiler
+⚠️ Financial Risk Detection – AI flags overdue khata accounts and restricted cash flow.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🤖 Workflow Automation – Agents for billing, debt recovery, and WhatsApp messaging.
 
-## Expanding the ESLint configuration
+📈 Analytics & Profit Tracking – Daily profit calculated from COGS with detailed ledgers.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# smart-inventory" 
-"# smart-inventory" 
+🛠️ AI Modules:
+
+Workflow AI – Automates repetitive store tasks.
+
+Route AI – Optimizes delivery routes and logistics.
+
+Auto WhatsApp – Streamlined customer communication.
+
+💻 Tech Stack
+Frontend: React + Vite
+
+Backend: Node.js + Express
+
+Database: MongoDB
+
+AI Integration: Custom workflow agents, analytics modules
+
+🔐 Admin Features
+Role‑based access (e.g., Store Admin)
+
+Debt recovery tools with one‑click actions
+
+Integrated chat assistant (V3 AI) for support
+
+📊 Example Metrics
+Total Sales (Today): ₹10,676 (14 bills processed)
+
+Total Profit (Today): ₹1,702
+
+Stock Alerts: 1 item below threshold
+
+🚀 Why DESI MART?
+This project demonstrates how AI can transform retail operations by combining traditional store management with intelligent automation. It’s designed for scalability, making it suitable for local shops, franchise chains, and experimental AI‑driven workflows.
